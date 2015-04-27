@@ -1,1 +1,10 @@
-baseurl: /CochinLaughterYoga
+safe:        false
+auto:        false
+
+source:      .
+destination: ./_site
+
+
+future:      true
+lsi:         false
+pygments:    false
